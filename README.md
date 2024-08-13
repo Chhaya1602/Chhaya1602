@@ -1,3 +1,4 @@
+![logo](https://github.com/Chhaya1602/Chhaya1602/blob/main/Github-Banner.png)
 <h1 align="center">Hi 👋, I'm Chhaya Haribhau Mandlik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
